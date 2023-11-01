@@ -27,7 +27,7 @@
 
   1. Clone the repository:
   
-    git clone https://github.com/Abithaabbas/ADSproject/edit/main/README.md
+    git clone https://github.com/Abithaabbas/ADSproject.git
 
    2.Installing libraries
 
